@@ -1,6 +1,6 @@
-# Python Code to C Alpha1.0
+# Python Code to C Beta0.1
 
-**Python Code to C Alpha1.0** は、Python 3 系の実用的なサブセットを **C11** へ変換する
+**Python Code to C Beta0.1** は、Python 3 系の実用的なサブセットを **C11** へ変換する
 移植性重視のトランスパイラです。ホスト CLI・単一ヘッダー・freestanding コア・自作OS 組み込み
 の 4 通りの使い方を、同じ変換器でカバーします。
 
